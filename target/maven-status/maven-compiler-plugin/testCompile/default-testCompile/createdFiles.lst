@@ -1,0 +1,6 @@
+com\intbanking\pageobjects\LoginPage.class
+com\intbanking\testcase\LoginTest.class
+com\intbanking\testcase\BaseClass.class
+com\intbanking\utilities\ReadConfig.class
+com\intbanking\testcase\Tc_02_LogInValidation.class
+com\intbanking\utilities\XLUtilis.class

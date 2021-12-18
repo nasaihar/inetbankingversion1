@@ -5,8 +5,9 @@
   
       <parameter name="browser" value="Chrome"/>
       <classes>
-       <class name="com.intbanking.testcase.LoginTest"/> 
-      <class name="com.intbanking.testcase.Tc_02_LogInValidation"/>
+   <!--      <class name="com.intbanking.testcase.LoginTest"/>  -->
+       <class name="com.intbanking.testcase.CreateUserValidation"/>
+       
     </classes>
   </test> <!-- Test -->
   

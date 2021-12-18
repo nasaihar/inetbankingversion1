@@ -4,9 +4,11 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -27,6 +29,7 @@ public class BaseClass {
 	public String password=rg.getPassword();
 	public static WebDriver driver;
 	public static Logger log;
+
 	
 	@Parameters("browser")
 	@SuppressWarnings("deprecation")
@@ -62,8 +65,9 @@ public class BaseClass {
 	@SuppressWarnings("deprecation")
 	public static void waitAlertPresent()
 	{
-		WebDriverWait w=new WebDriverWait(driver,20);
-		w.until(ExpectedConditions.alertIsPresent());
+		WebDriverWait wait=new WebDriverWait(driver,20);
+		
+		wait.until(ExpectedConditions.alertIsPresent());
 	}
 	
 	public static boolean AlertPresent()
@@ -79,6 +83,18 @@ public class BaseClass {
 		
 		}
 		
+	}
+	
+	public static void waitUntilTitle()
+	{
+		WebDriverWait wait=new WebDriverWait(driver,20);
+		wait.until(ExpectedConditions.titleContains("Guru99 Bank New Customer Entry Page"));
+	}
+	
+	public static void pressTab()
+	{
+		Actions a=new Actions(driver);
+		a.keyDown(Keys.TAB);
 	}
 
 }

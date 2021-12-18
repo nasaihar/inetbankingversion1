@@ -156,3 +156,194 @@
 2021-12-16 16:21:54,378 - ebanking -INFO - Chrome Browser Launched
 2021-12-16 16:21:57,662 - ebanking -INFO - Base URL Enterned
 2021-12-16 16:21:59,708 - ebanking -INFO - Browser Closed
+2021-12-18 11:18:17,478 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:18:25,018 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:18:25,115 - ebanking -INFO - Calling LoginPage from Pom
+2021-12-18 11:18:25,287 - ebanking -INFO - Enterd Username
+2021-12-18 11:18:25,437 - ebanking -INFO - Enterned Password
+2021-12-18 11:18:26,114 - ebanking -INFO - Clicked on submit button
+2021-12-18 11:18:27,230 - ebanking -INFO - Test is pass
+2021-12-18 11:18:28,134 - ebanking -INFO - Browser Closed
+2021-12-18 11:20:44,576 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:20:54,012 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:20:54,264 - ebanking -INFO - UserName Enterned
+2021-12-18 11:20:54,385 - ebanking -INFO - Password Enterned
+2021-12-18 11:20:56,218 - ebanking -INFO - Login Sucessfully
+2021-12-18 11:20:56,942 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 11:21:17,950 - ebanking -INFO - Browser Closed
+2021-12-18 11:22:39,434 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:22:47,798 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:22:48,030 - ebanking -INFO - UserName Enterned
+2021-12-18 11:22:48,146 - ebanking -INFO - Password Enterned
+2021-12-18 11:22:50,544 - ebanking -INFO - Login Sucessfully
+2021-12-18 11:22:52,317 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 11:23:13,450 - ebanking -INFO - Browser Closed
+2021-12-18 11:28:23,459 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:28:31,073 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:28:31,331 - ebanking -INFO - UserName Enterned
+2021-12-18 11:28:31,473 - ebanking -INFO - Password Enterned
+2021-12-18 11:28:33,979 - ebanking -INFO - Login Sucessfully
+2021-12-18 11:28:36,616 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 11:28:57,804 - ebanking -INFO - Browser Closed
+2021-12-18 11:29:53,096 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:29:58,983 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:29:59,215 - ebanking -INFO - UserName Enterned
+2021-12-18 11:29:59,341 - ebanking -INFO - Password Enterned
+2021-12-18 11:30:02,033 - ebanking -INFO - Browser Closed
+2021-12-18 11:30:27,270 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:30:34,200 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:30:34,440 - ebanking -INFO - UserName Enterned
+2021-12-18 11:30:34,575 - ebanking -INFO - Password Enterned
+2021-12-18 11:30:38,183 - ebanking -INFO - Login Sucessfully
+2021-12-18 11:30:38,359 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 11:30:43,914 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 11:30:44,933 - ebanking -INFO - Browser Closed
+2021-12-18 11:31:10,655 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 11:31:17,659 - ebanking -INFO - Base URL Enterned
+2021-12-18 11:31:17,916 - ebanking -INFO - UserName Enterned
+2021-12-18 11:31:18,036 - ebanking -INFO - Password Enterned
+2021-12-18 11:31:24,930 - ebanking -INFO - Login Sucessfully
+2021-12-18 11:31:25,088 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 11:31:31,840 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 11:31:32,836 - ebanking -INFO - Browser Closed
+2021-12-18 12:07:22,969 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:07:25,942 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:07:26,261 - ebanking -INFO - UserName Enterned
+2021-12-18 12:07:26,498 - ebanking -INFO - Password Enterned
+2021-12-18 12:07:28,126 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:07:29,100 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:07:29,141 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:07:31,655 - ebanking -INFO - Browser Closed
+2021-12-18 12:07:55,607 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:07:58,748 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:07:59,001 - ebanking -INFO - UserName Enterned
+2021-12-18 12:07:59,232 - ebanking -INFO - Password Enterned
+2021-12-18 12:08:00,832 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:08:01,713 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:08:01,760 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:08:04,153 - ebanking -INFO - Browser Closed
+2021-12-18 12:11:34,523 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:11:38,132 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:11:38,395 - ebanking -INFO - UserName Enterned
+2021-12-18 12:11:38,620 - ebanking -INFO - Password Enterned
+2021-12-18 12:11:40,145 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:11:40,441 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:11:43,604 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:11:44,018 - ebanking -INFO - Customer name enterned
+2021-12-18 12:11:44,200 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:11:44,367 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:11:44,466 - ebanking -INFO - Customer City enterned
+2021-12-18 12:11:44,569 - ebanking -INFO - Customer State enterned
+2021-12-18 12:11:44,682 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:11:44,785 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:11:44,905 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:11:45,005 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:11:46,315 - ebanking -INFO - Browser Closed
+2021-12-18 12:16:08,136 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:16:11,396 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:16:11,630 - ebanking -INFO - UserName Enterned
+2021-12-18 12:16:11,752 - ebanking -INFO - Password Enterned
+2021-12-18 12:16:13,398 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:16:14,238 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:16:14,271 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:16:14,597 - ebanking -INFO - Customer name enterned
+2021-12-18 12:16:14,788 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:16:15,010 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:16:15,118 - ebanking -INFO - Customer City enterned
+2021-12-18 12:16:15,223 - ebanking -INFO - Customer State enterned
+2021-12-18 12:16:15,332 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:16:15,438 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:16:15,563 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:16:15,694 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:16:15,697 - ebanking -INFO - Tab Pressed
+2021-12-18 12:16:16,618 - ebanking -INFO - Browser Closed
+2021-12-18 12:25:55,906 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:25:58,852 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:25:59,166 - ebanking -INFO - UserName Enterned
+2021-12-18 12:25:59,373 - ebanking -INFO - Password Enterned
+2021-12-18 12:26:00,910 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:26:01,332 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:26:05,086 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:26:05,325 - ebanking -INFO - Customer name enterned
+2021-12-18 12:26:05,515 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:26:05,671 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:26:05,767 - ebanking -INFO - Customer City enterned
+2021-12-18 12:26:05,869 - ebanking -INFO - Customer State enterned
+2021-12-18 12:26:05,979 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:26:06,084 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:26:06,185 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:26:06,300 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:26:06,303 - ebanking -INFO - Tab Pressed
+2021-12-18 12:26:07,336 - ebanking -INFO - Browser Closed
+2021-12-18 12:28:36,448 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:28:39,674 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:28:39,910 - ebanking -INFO - UserName Enterned
+2021-12-18 12:28:40,034 - ebanking -INFO - Password Enterned
+2021-12-18 12:28:41,550 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:28:42,380 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:28:42,430 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:28:42,780 - ebanking -INFO - Customer name enterned
+2021-12-18 12:28:43,199 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:28:43,361 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:28:43,488 - ebanking -INFO - Customer City enterned
+2021-12-18 12:28:43,601 - ebanking -INFO - Customer State enterned
+2021-12-18 12:28:43,713 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:28:43,817 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:28:43,925 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:28:44,029 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:28:44,034 - ebanking -INFO - Tab Pressed
+2021-12-18 12:28:50,190 - ebanking -INFO - Browser Closed
+2021-12-18 12:29:25,967 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:29:29,443 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:29:29,708 - ebanking -INFO - UserName Enterned
+2021-12-18 12:29:29,964 - ebanking -INFO - Password Enterned
+2021-12-18 12:29:31,457 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:29:31,829 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:29:35,016 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:29:35,246 - ebanking -INFO - Customer name enterned
+2021-12-18 12:29:35,459 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:29:35,666 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:29:35,774 - ebanking -INFO - Customer City enterned
+2021-12-18 12:29:35,874 - ebanking -INFO - Customer State enterned
+2021-12-18 12:29:35,989 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:29:36,087 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:29:36,187 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:29:36,290 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:29:36,293 - ebanking -INFO - Tab Pressed
+2021-12-18 12:29:42,409 - ebanking -INFO - Browser Closed
+2021-12-18 12:31:53,003 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:31:56,266 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:31:56,510 - ebanking -INFO - UserName Enterned
+2021-12-18 12:31:56,794 - ebanking -INFO - Password Enterned
+2021-12-18 12:31:58,383 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:31:59,244 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:31:59,296 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:31:59,552 - ebanking -INFO - Customer name enterned
+2021-12-18 12:31:59,885 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:32:00,350 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:32:00,450 - ebanking -INFO - Customer City enterned
+2021-12-18 12:32:00,559 - ebanking -INFO - Customer State enterned
+2021-12-18 12:32:00,659 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:32:00,774 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:32:00,897 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:32:01,008 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:32:01,011 - ebanking -INFO - Tab Pressed
+2021-12-18 12:32:07,063 - ebanking -INFO - Browser Closed
+2021-12-18 12:33:14,054 - ebanking -INFO - Chrome Browser Launched
+2021-12-18 12:33:17,389 - ebanking -INFO - Base URL Enterned
+2021-12-18 12:33:17,682 - ebanking -INFO - UserName Enterned
+2021-12-18 12:33:17,808 - ebanking -INFO - Password Enterned
+2021-12-18 12:33:19,343 - ebanking -INFO - Login Sucessfully
+2021-12-18 12:33:20,296 - ebanking -INFO - Navigate to Add Customer Page
+2021-12-18 12:33:20,332 - ebanking -INFO - Successfully Navigate to Add Customer Page
+2021-12-18 12:33:20,630 - ebanking -INFO - Customer name enterned
+2021-12-18 12:33:20,838 - ebanking -INFO - Customer DOB enterned
+2021-12-18 12:33:21,056 - ebanking -INFO - Customer Address enterned
+2021-12-18 12:33:21,155 - ebanking -INFO - Customer City enterned
+2021-12-18 12:33:21,259 - ebanking -INFO - Customer State enterned
+2021-12-18 12:33:21,357 - ebanking -INFO - Customer Pino enterned
+2021-12-18 12:33:21,461 - ebanking -INFO - Customer mobile number enterned
+2021-12-18 12:33:21,591 - ebanking -INFO - Customer Email ID enterned
+2021-12-18 12:33:21,693 - ebanking -INFO - Customer Password enterned
+2021-12-18 12:33:21,696 - ebanking -INFO - Tab Pressed
+2021-12-18 12:33:27,657 - ebanking -INFO - Browser Closed
